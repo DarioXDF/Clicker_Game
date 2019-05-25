@@ -7,8 +7,13 @@ Klicker Game:
 
 -- ForschungsTree --
   - Design
-  - Technick/Leistung
-  - Addons
+  - Technick/Leistung :
+   - CPU
+   - RAM
+   - SpeicherGesch.
+   - MotherBoards
+   - PowerSupply
+   - GPU
 
 -- DifferenzierungsTree --
   - Hardware
