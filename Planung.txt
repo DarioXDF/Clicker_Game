@@ -2,8 +2,20 @@ Klicker Game:
 
 - Pixel Art
 - Man muss klicken können
+
 - Thema:
  - Hardware Dev
+
+- Visuelle Upgrades :
+ - Character
+ - Umgebung
+
+- Character Creator
+
+-- DifferenzierungsTrees --
+  - ForschungsTree
+  - Peripherie/Eingabe
+  - Ausgabe
 
 -- ForschungsTree --
   - Design
@@ -15,10 +27,16 @@ Klicker Game:
    - PowerSupply
    - GPU
 
--- DifferenzierungsTree --
-  - Hardware
-  - Peripherie/Eingabe
-  - Ausgabe
+-- PeripherieTree --
+  - Maus
+  - Tastatur
+  - Audioeingabe
+  - Webcam
+
+-- AusgabeTree --
+  - Audioausgabe
+  - Monitore
 
 (Addons)
 Score Board
+VR Addons
