@@ -1,3 +1,19 @@
 Klicker Game:
 
+- Pixel Art
 - Man muss klicken können
+- Thema:
+ - Hardware Dev
+
+-- ForschungsTree --
+  - Design
+  - Technick/Leistung
+  - Addons
+
+-- DifferenzierungsTree --
+  - Hardware
+  - Peripherie/Eingabe
+  - Ausgabe
+
+(Addons)
+Score Board
