@@ -1,11 +1,11 @@
 /// @description Ausführen der Optionen
 // Sie können Ihren Code in diesem Editor schreiben
-switch(text){
-	case "Start Game":
+switch(bid){
+	case 1:
 		room_goto(rm_charsellect);
 		break;
 	
-	case "Quit Game":
+	case 4:
 		game_end();
 		break;
 }

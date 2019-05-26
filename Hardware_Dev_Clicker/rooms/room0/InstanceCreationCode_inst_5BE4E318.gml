@@ -1,1 +1,2 @@
-y = room_height/5*3;
+bid = 3;
+y = room_height/bammount*bid;

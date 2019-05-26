@@ -1,2 +1,2 @@
-y = room_height/5*1;
-text = "Start Game";
+bid = 1;
+y = room_height/bammount*bid;

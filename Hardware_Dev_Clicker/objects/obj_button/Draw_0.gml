@@ -5,4 +5,4 @@ x = room_width/2;
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 draw_set_font(fnt_normal);
-draw_text(x,y,text);
+draw_text(x,y,text[bid-1]);

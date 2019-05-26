@@ -1,2 +1,2 @@
-y = room_height/5*4;
-text = "Quit Game";
+bid = bammount-1;
+y = room_height/bammount*bid;
