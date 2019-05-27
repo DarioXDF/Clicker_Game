@@ -2,7 +2,7 @@
     "id": "8c61cd0d-6baf-4f5e-9d5a-7c14489ad0c0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_",
+    "name": "spr_upgr_button",
     "For3D": false,
     "HTile": false,
     "VTile": false,

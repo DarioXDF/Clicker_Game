@@ -5,6 +5,10 @@ switch(bid){
 		room_goto(rm_charsellect);
 		break;
 	
+	case 2:
+		room_goto(rm_game);
+		break;
+	
 	case 4:
 		game_end();
 		break;
