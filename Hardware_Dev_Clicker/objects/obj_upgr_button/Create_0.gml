@@ -9,4 +9,4 @@ text[3] = "Aus";
 bid=0;
 active=false;
 y = room_height-32;
-instance_create_depth(x,y,0,obj_upgr_menu);
+//instance_create_depth(x,y,0,obj_upgr_menu);

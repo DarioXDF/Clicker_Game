@@ -1,13 +1,17 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
-if(active==true&&y>(room_height-sprite_height/2)-250){
-	y-=10;
-	if(x == obj_upgr_menu.x){
-		obj_upgr_menu.y-=10;
+movespeed=15;
+
+if(active==true&&y>(room_height-sprite_height/2)-movespeed*15){
+	y-=movespeed;
+	with(obj_upgr_menu){
+		if(menu_id == other.bid)
+		y-=other.movespeed;
 	}
 }else if(active==false&&y<room_height-sprite_height/2){
-	y+=10;
-	if(x == obj_upgr_menu.x){
-		obj_upgr_menu.y+=10;
+	y+=movespeed;
+	with(obj_upgr_menu){
+		if(menu_id == other.bid)
+		y+=other.movespeed;
 	}
 }
