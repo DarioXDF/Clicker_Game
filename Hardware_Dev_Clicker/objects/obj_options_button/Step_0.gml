@@ -1,0 +1,35 @@
+/// @description Hier Beschreibung einfügen
+// Sie können Ihren Code in diesem Editor schreiben
+if(active==true){
+	with(obj_upgr_button){
+		if(y<room_height+32){
+			y+=10;
+		}
+	}
+	with(obj_upgr_menu){
+		if(y<room_height+32){
+			y+=10;
+		}
+	}
+	if(y!=62&&x!=room_width-62){
+		y+=2.5;
+		x-=2.5;
+		alpha+=.5/12;
+	}
+}else{
+	with(obj_upgr_button){
+		if(y>room_height-32){
+			y-=10;
+		}
+	}
+	with(obj_upgr_menu){
+		if(y>room_height-32){
+			y-=10;
+		}
+	}
+	if(y!=32&&x!=room_width-32){
+		y-=5;
+		x+=5;
+		alpha-=.5/6;
+	}
+}
