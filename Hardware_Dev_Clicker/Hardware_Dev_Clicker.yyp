@@ -119,11 +119,27 @@
             }
         },
         {
+            "Key": "6ee07aff-9483-4016-b00a-a5c84e121008",
+            "Value": {
+                "id": "b4e33507-ecea-43f8-843e-f7bd08ec2c0d",
+                "resourcePath": "sprites\\spr_money_background\\spr_money_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f1c711c-fbd6-4cdb-a76a-131d0acd2ea5",
             "Value": {
                 "id": "c4e396b7-4754-4c89-842f-99ba4f4ec23b",
                 "resourcePath": "views\\6f1c711c-fbd6-4cdb-a76a-131d0acd2ea5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "71b02f04-7062-497f-9932-54140dd1abec",
+            "Value": {
+                "id": "34317a05-174b-411d-9240-c832e77004bf",
+                "resourcePath": "objects\\obj_money_bar\\obj_money_bar.yy",
+                "resourceType": "GMObject"
             }
         },
         {

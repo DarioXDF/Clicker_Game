@@ -6,6 +6,9 @@ switch(active){
 		break;
 		
 	case false:
+		with(obj_upgr_button){
+			active=false;
+		}
 		active=true;
 		break;
 }
