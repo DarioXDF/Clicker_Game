@@ -9,3 +9,4 @@ text[3] = "Quit Game";
 bammount = instance_number(obj_button)+1;
 bid = 0;
 image_speed = 0;
+draw_set_color(c_white);
