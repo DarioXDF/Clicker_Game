@@ -8,4 +8,4 @@ text[3] = "Aus";
 
 bid=0;
 active=false;
-y = room_height-32;
+y = room_height-42;

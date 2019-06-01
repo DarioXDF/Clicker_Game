@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "5916370c-c6c6-4c8a-9937-cdc5c8758d89",
+            "Value": {
+                "id": "b06fe286-9c64-4b87-84cd-154f9d69d423",
+                "resourcePath": "sprites\\spr_upgr_info\\spr_upgr_info.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "67949830-2cd4-4d83-9814-814ad8dfa4ae",
             "Value": {
                 "id": "87e308f7-f4ed-4e46-a1a8-ff27fd3476bf",
@@ -179,6 +187,14 @@
             "Value": {
                 "id": "ace7bdd3-40cc-4c31-8259-3207ff38d941",
                 "resourcePath": "sprites\\spr_upgr_button\\spr_upgr_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8f41ec21-a37f-4aaa-ba3d-c03c2448f645",
+            "Value": {
+                "id": "09af1f11-7275-4a1b-82f4-89feb5fd82d3",
+                "resourcePath": "sprites\\spr_upgr_icon\\spr_upgr_icon.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "cb2ccf8d-3d3d-4df2-8073-c82dc5461899",
+            "Value": {
+                "id": "e1c43e3b-5833-463e-80d0-d81ab07d40c5",
+                "resourcePath": "objects\\obj_upgr_icon\\obj_upgr_icon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "fe5b1197-80a6-406a-b52b-cc6d5b1acd31",
@@ -323,6 +347,14 @@
             "Value": {
                 "id": "d3b0e008-646c-41d2-ae86-67b95a92cb26",
                 "resourcePath": "objects\\obj_table\\obj_table.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3b98b82-e286-43b0-9025-a3c991f143a8",
+            "Value": {
+                "id": "c5e82295-16b2-444b-b818-ceda3d22969e",
+                "resourcePath": "objects\\obj_upgr_info\\obj_upgr_info.yy",
                 "resourceType": "GMObject"
             }
         },
