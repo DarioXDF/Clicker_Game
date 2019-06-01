@@ -37,3 +37,17 @@
   - Score Board<br>
   - VR Addons
 </p>
+<p>
+  Die verschiedenen Upgrades sollen bestimmte dinge verbessern.<br><br>
+  <b>Visuelles</b><br>
+  Die Visuellen Upgrades sollen das Haussehen der Hardware verbessern und den Ruf des Spielers steigern.<br>
+  <br>
+  <b>Die Forschung</b><br>
+  Die Forschung soll dem Spieler bessere Komponenten zur verfügung stellen. Dadurch sollen sein Ruf und sein Geld was er Pro PC verdient steigen.<br>
+  <br>
+  <b>Peripherie und Ausgabe</b><br>
+  Die Peripherie und Ausgabegeräte sollen den Ruf des Spielers steigern.<br>
+  <br>
+  <b>Der Ruf</b><br>
+  Der Ruf wird dazu verwendet um eine bestimmte anazahl an Geld zu errechenn die der Spieler dann in einem BVestimmten INtervall erhällt.<br>
+  </p>
