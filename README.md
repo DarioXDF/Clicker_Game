@@ -43,11 +43,11 @@
   Die Visuellen Upgrades sollen das Aussehen der Hardware verbessern und somit den Ruf des Spielers steigern.<br>
   <br>
   <b>Die Forschung</b><br>
-  Die Forschung soll dem Spieler bessere Komponenten zur verfügung stellen. Dadurch sollen sein Ruf und sein Geld was er Pro PC verdient steigen.<br>
+  Die Forschung soll dem Spieler bessere Komponenten zur verfügung stellen. Dadurch sollen sein Ruf und sein Geld was er Pro PC verdient steigern.<br>
   <br>
   <b>Peripherie und Ausgabe</b><br>
-  Die Peripherie und Ausgabegeräte sollen den Ruf des Spielers steigern.<br>
+  Die Peripherie- und Ausgabegeräte sollen den Ruf des Spielers steigern.<br>
   <br>
   <b>Der Ruf</b><br>
-  Der Ruf wird dazu verwendet um eine bestimmte anazahl an Geld zu errechenn die der Spieler dann in einem bestimmten Intervall erhällt.<br>
+  Der Ruf wird dazu verwendet um eine bestimmte anazahl an Geld zu errechnen die der Spieler dann in einem bestimmten Intervall erhällt.<br>
   </p>
