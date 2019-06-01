@@ -17,7 +17,7 @@ if(active==true){
 	
 	//Move the money bar up if button is active
 	with(obj_money_bar){
-		if(y>-40){
+		if(y>-100){
 			y-=10;
 		}
 	}
@@ -29,6 +29,7 @@ if(active==true){
 		alpha+=.5/12;
 	}
 	if(btn_alpha<1)btn_alpha+=.2;
+	if(obj_table.image_alpha>0)obj_table.image_alpha-=.2;
 }else{
 	//Move the upgrade buttons back up if button is not active
 	with(obj_upgr_button){
@@ -58,4 +59,5 @@ if(active==true){
 		alpha-=.5/6;
 	}
 	if(btn_alpha>0)btn_alpha-=.2;
+	if(obj_table.image_alpha<1)obj_table.image_alpha+=.2;
 }
