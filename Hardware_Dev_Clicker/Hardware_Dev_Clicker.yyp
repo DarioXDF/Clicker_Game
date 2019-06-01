@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "4a574ae2-c330-4d6a-ba51-ebd46ade2e69",
+            "Value": {
+                "id": "f563d507-b310-4e06-853e-3440575a29d6",
+                "resourcePath": "sprites\\spr_gui_overlay\\spr_gui_overlay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c66a5e3-4e8e-45ab-b0df-0fcdd87499bc",
             "Value": {
                 "id": "86314e97-01a2-49b2-86e7-872a231e2710",
