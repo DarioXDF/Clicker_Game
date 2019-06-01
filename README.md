@@ -49,5 +49,5 @@
   Die Peripherie und Ausgabegeräte sollen den Ruf des Spielers steigern.<br>
   <br>
   <b>Der Ruf</b><br>
-  Der Ruf wird dazu verwendet um eine bestimmte anazahl an Geld zu errechenn die der Spieler dann in einem BVestimmten INtervall erhällt.<br>
+  Der Ruf wird dazu verwendet um eine bestimmte anazahl an Geld zu errechenn die der Spieler dann in einem bestimmten Intervall erhällt.<br>
   </p>
