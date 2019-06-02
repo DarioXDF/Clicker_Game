@@ -114,7 +114,7 @@
             "Key": "55251468-b6a8-4473-91b3-82f76b480874",
             "Value": {
                 "id": "43226339-f7d7-47eb-9983-d85678431b31",
-                "resourcePath": "fonts\\fnt_smal\\fnt_smal.yy",
+                "resourcePath": "fonts\\fnt_small\\fnt_small.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "d3fd26c7-0dd5-40d0-acfe-8fd67004a2d3",
+            "Value": {
+                "id": "3f713d44-b4ca-462d-b507-c09607a97bf1",
+                "resourcePath": "scripts\\scr_large_number_rechner\\scr_large_number_rechner.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d489aae9-50f3-45ef-9368-8da08ef233e9",
             "Value": {
                 "id": "1f3cada9-b174-4e78-84b2-ac10f75a509c",
@@ -400,7 +408,7 @@
         }
     ],
     "script_order": [
-        
+        "d3fd26c7-0dd5-40d0-acfe-8fd67004a2d3"
     ],
     "tutorial": ""
 }

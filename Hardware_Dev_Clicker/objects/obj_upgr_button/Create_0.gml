@@ -8,4 +8,4 @@ text[3] = "Aus";
 
 bid=0;
 active=false;
-y = room_height-42;
+y = room_height-sprite_height+10;

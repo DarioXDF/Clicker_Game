@@ -2,7 +2,7 @@
 // Sie können Ihren Code in diesem Editor schreiben
 // Variablen initialisieren
 text[0] = "Start Game";
-text[1] = "Jump to Game Room";
+text[1] = "Not Done!";
 text[2] = "Not Done!";
 text[3] = "Quit Game";
 

@@ -7,7 +7,9 @@ if(draw_get_alpha()==1){
 			break;
 	
 		case 2:
-			room_goto(rm_game);
+			break;
+	
+		case 3:
 			break;
 	
 		case 4:

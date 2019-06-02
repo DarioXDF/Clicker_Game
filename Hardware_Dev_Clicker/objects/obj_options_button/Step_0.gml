@@ -17,7 +17,7 @@ if(active==true){
 	
 	//Move the money bar up if button is active
 	with(obj_money_bar){
-		if(y>-100){
+		if(y>-130){
 			y-=10;
 		}
 	}
