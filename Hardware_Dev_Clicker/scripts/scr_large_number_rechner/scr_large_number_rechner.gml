@@ -19,4 +19,4 @@ else if (number >= 1000) {
 	suffix = "";
 }
 
-return string(prefix)+suffix+"$";
+return string(prefix)+suffix;

@@ -2,7 +2,7 @@
 // Sie können Ihren Code in diesem Editor schreiben
 movespeed=15;
 
-if(active==true&&y>(room_height-sprite_height/2-10)-movespeed*15){
+if(active==true&&y>(room_height-sprite_height/2-10)-movespeed*20){
 	y-=movespeed;
 	with(obj_upgr_menu){
 		if(menu_id == other.bid)

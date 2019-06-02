@@ -10,7 +10,8 @@ if(obj_money_bar.own_money>=upgr_cost){
 			switch(ico_id){
 				//Erstes Upgrade
 				case 1:
-					obj_money_bar.own_money += upgr_cost;
+					obj_money_bar.own_ruf += 1;
+					upgr_cost += 5;
 					break;
 				
 				//Zweites Upgrade

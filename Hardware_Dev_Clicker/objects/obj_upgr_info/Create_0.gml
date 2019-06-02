@@ -8,13 +8,15 @@ info_id = 0;
 Second digit is the Upgrade number*/
 //Visuelle Upgrades
 info[1, 1] = "Gehäuse";
-info[1, 2] = "Mainboard";
-info[1, 3] = "GPU";
+info[1, 2] = "Netzteil";
+info[1, 3] = "Mainboard";
+info[1, 4] = "GPU";
 
 //Forschung
-info[2, 1] = "RAM";
-info[2, 2] = "CPU";
-info[2, 3] = "GPU";
+info[2, 1] = "ROM";
+info[2, 2] = "RAM";
+info[2, 3] = "CPU";
+info[2, 4] = "GPU";
 
 //Peripherie Upgrades
 info[3, 1] = "Maus";
