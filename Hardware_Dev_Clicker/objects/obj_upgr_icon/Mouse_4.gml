@@ -41,6 +41,7 @@ if(obj_money_bar.own_money>=upgr_cost){
 				case 1:
 					obj_pc.add_money+=to_pc_price_cash;
 					obj_money_bar.own_ruf += to_ruf;
+					obj_pc.pc_max += to_pc_build_max;
 					upgr_cost += 10;
 					break;
 				
@@ -48,6 +49,7 @@ if(obj_money_bar.own_money>=upgr_cost){
 				case 2:
 					obj_pc.add_money+=to_pc_price_cash*2;
 					obj_money_bar.own_ruf += to_ruf*2;
+					obj_pc.pc_max += to_pc_build_max*2;
 					upgr_cost += 20;
 					break;
 				
@@ -55,6 +57,7 @@ if(obj_money_bar.own_money>=upgr_cost){
 				case 3:
 					obj_pc.add_money+=to_pc_price_cash*3;
 					obj_money_bar.own_ruf += to_ruf*3;
+					obj_pc.pc_max += to_pc_build_max*3;
 					upgr_cost += 30;
 					break;
 				
@@ -62,6 +65,7 @@ if(obj_money_bar.own_money>=upgr_cost){
 				case 4:
 					obj_pc.add_money+=to_pc_price_cash*4;
 					obj_money_bar.own_ruf += to_ruf*4;
+					obj_pc.pc_max += to_pc_build_max*4;
 					upgr_cost += 40;
 					break;
 			}

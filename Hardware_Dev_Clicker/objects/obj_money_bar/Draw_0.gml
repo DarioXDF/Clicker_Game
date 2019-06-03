@@ -6,4 +6,4 @@ draw_set_valign(fa_center);
 draw_set_font(fnt_normal);
 draw_text(x,y-10,scr_large_number_rechner(own_money)+"$");
 draw_set_font(fnt_small);
-draw_text(x+326, obj_money_bar.y+1,"Dein Ruf: " + scr_large_number_rechner(own_ruf));
+draw_text(x+326, y+1,"Dein Ruf: " + scr_large_number_rechner(own_ruf));
