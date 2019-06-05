@@ -23,7 +23,7 @@ if(active==true){
 	}
 	
 	//Moves the Options button into the fading options panel
-	if(y!=65&&x!=room_width-65){
+	if(y<65&&x>room_width-65){
 		y+=2.5;
 		x-=2.5;
 		alpha+=.5/12;
@@ -53,7 +53,7 @@ if(active==true){
 	}
 	
 	//Moves the Options button out of the fading options panel
-	if(y!=35&&x!=room_width-35){
+	if(y>35&&x<room_width-35){
 		y-=5;
 		x+=5;
 		alpha-=.5/6;
