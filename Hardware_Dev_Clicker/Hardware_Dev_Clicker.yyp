@@ -135,14 +135,6 @@
             }
         },
         {
-            "Key": "53ffa810-39c3-4866-a08b-e99f8b7bff61",
-            "Value": {
-                "id": "1b8d2ef6-4725-4fea-81c8-d06eee2d163c",
-                "resourcePath": "objects\\obj_game_controller\\obj_game_controller.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "55251468-b6a8-4473-91b3-82f76b480874",
             "Value": {
                 "id": "43226339-f7d7-47eb-9983-d85678431b31",
@@ -156,14 +148,6 @@
                 "id": "b06fe286-9c64-4b87-84cd-154f9d69d423",
                 "resourcePath": "sprites\\spr_upgr_info\\spr_upgr_info.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5d8afeaa-8663-4b40-b33d-312f50e79dd2",
-            "Value": {
-                "id": "23353f07-089a-4832-9846-e5fca558cb97",
-                "resourcePath": "views\\5d8afeaa-8663-4b40-b33d-312f50e79dd2.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -252,14 +236,6 @@
                 "id": "09af1f11-7275-4a1b-82f4-89feb5fd82d3",
                 "resourcePath": "sprites\\spr_upgr_icon\\spr_upgr_icon.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "92493104-9014-4ede-8e39-5c35848a2586",
-            "Value": {
-                "id": "b2edfa69-d2db-4ec7-bce4-7b5a729f0dd8",
-                "resourcePath": "rooms\\rm_options\\rm_options.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
