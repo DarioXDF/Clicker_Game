@@ -1,6 +1,6 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
-switch(active){
+/*switch(active){
 	case true:
 		active=false;
 		break;
@@ -11,4 +11,6 @@ switch(active){
 		}
 		active=true;
 		break;
-}
+}*/
+obj_game_controller.previous_room = room;
+room_goto(rm_options);

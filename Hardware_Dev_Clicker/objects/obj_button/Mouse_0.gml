@@ -15,5 +15,9 @@ if(draw_get_alpha()==1){
 		case 4:
 			game_end();
 			break;
+			
+		case 5:
+			room_goto(obj_game_controller.previous_room);
+			break;
 	}
 }
