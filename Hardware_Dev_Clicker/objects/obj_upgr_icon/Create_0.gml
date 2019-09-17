@@ -7,3 +7,4 @@ to_ruf = 1;
 to_pc_price_cash = 5;
 to_pc_build_speed = 1;
 to_pc_build_max = 5;
+upgradeText = "";
