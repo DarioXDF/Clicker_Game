@@ -1,6 +1,6 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
-switch(active){
+/*switch(active){
 	case true:
 		active=false;
 		break;
@@ -10,5 +10,11 @@ switch(active){
 			active=false;
 		}
 		active=true;
+		break;
+}*/
+room_goto(rm_options);
+switch(room){
+	case rm_options:
+		room_goto(rm_game);
 		break;
 }

@@ -1,6 +1,6 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
-if(active==true){
+/*if(active==true){
 	//Move the upgrade buttons down if button is active
 	with(obj_upgr_button){
 		if(y<room_height+32){
@@ -28,6 +28,7 @@ if(active==true){
 		x-=2.5;
 		alpha+=.5/12;
 	}
+	//Change the Buttons Alpha
 	if(btn_alpha<1)btn_alpha+=.2;
 	if(obj_table.image_alpha>0)obj_table.image_alpha-=.2;
 }else{
@@ -60,4 +61,4 @@ if(active==true){
 	}
 	if(btn_alpha>0)btn_alpha-=.2;
 	if(obj_table.image_alpha<1)obj_table.image_alpha+=.2;
-}
+}*/
